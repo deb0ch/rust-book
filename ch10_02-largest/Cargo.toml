@@ -1,0 +1,7 @@
+[package]
+name = "ch10_02-largest"
+version = "0.1.0"
+authors = ["deb0ch <thomas.de.beauchene@gmail.com>"]
+edition = "2018"
+
+[dependencies]

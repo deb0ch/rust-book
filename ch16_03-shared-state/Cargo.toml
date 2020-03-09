@@ -1,0 +1,7 @@
+[package]
+name = "ch16_03-shared-state"
+version = "0.1.0"
+authors = ["deb0ch <thomas.de.beauchene@gmail.com>"]
+edition = "2018"
+
+[dependencies]

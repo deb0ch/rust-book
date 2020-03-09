@@ -1,0 +1,7 @@
+[package]
+name = "ch03_05-control-flow"
+version = "0.1.0"
+authors = ["deb0ch <thomas.de.beauchene@gmail.com>"]
+edition = "2018"
+
+[dependencies]
